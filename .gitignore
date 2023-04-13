@@ -1,0 +1,3 @@
+model/
+TrainedRandomForest.pkl
+survey_lung_cancer.csv

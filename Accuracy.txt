@@ -1,0 +1,7 @@
+Predicting the prevalence of lung cancer using Random Forest Technique
+
+Algorithm:  Random Forest Technique
+
+Accuracy % score: 99.07 %
+
+
