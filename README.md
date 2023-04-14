@@ -40,7 +40,7 @@ NOTE: make sure to install python before doing above steps, modules installation
 
 ## RUN PROCESS
 
-1) search & open "spyder(tsf)" software
+1) search & open "spyder" software
 2) run green color "play/run file" button
 3) copy server link "http://127.0.0.1:5000" & paste in any browser
 4) step-1: login ( username  & password is " SP33 & SP33 " only)
