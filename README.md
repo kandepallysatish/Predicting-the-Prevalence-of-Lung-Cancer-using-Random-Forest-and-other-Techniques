@@ -60,6 +60,12 @@ NOTE: make sure to install python before doing above steps, modules installation
 6) step-2: give any input & submit
 
 
+## WORKING VIDEO
+
+Watch Now
+<a href="https://youtu.be/E5tyQKIr1tE?sub_confirmation=1" target="_blank">
+ <img src="https://user-images.githubusercontent.com/48377494/231847489-da3b1d31-ada3-4679-ab3d-19b881ad31a3.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
 
 ## developed by @kandepallysatish
 ## To Contact 
